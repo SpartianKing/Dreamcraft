@@ -1,6 +1,6 @@
 ![Pinecraft](assets/pinecraft-logo.png?raw=true)
 
-[![Discord](https://img.shields.io/discord/495592877728989194?logo=discord)](https://discord.gg/dKz5RYc) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/LinuxTechShow) [![Twitter URL](https://img.shields.io/twitter/follow/category5tv?style=flat-square&logo=twitter)](https://twitter.com/category5tv)
+[![Discord](https://img.shields.io/discord/495592877728989194?logo=discord)](https://discord.gg/mXHu3xbrhG) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYdlBZoqVLAjtB90OJ9yg2Q)
 
 ## Minecraft Java Server Installer for Raspberry Pi, PINE64 and Other SBCs.
 
@@ -8,34 +8,19 @@ This installer simplifies the installation and setup of a Minecraft Java Server.
 
 If you have already installed this, running it again will allow you to upgrade.
 
-[![Support Me on Patreon](https://cdn.zecheriah.com/img/patreon_button.png)](https://patreon.com/pinecraft)
-
 ## Log4j / Log4shell / Khonsari Ransomware with Pinecraft Installer Minecraft Server
 
-An exploit in Apache's Log4j that affects all versions of Minecraft 1.7-1.18 was discovered December 10, 2021. I was swift to take action with Pinecraft Installer and had a patch out in under a day. **All Pinecraft-installed servers using Pinecraft Installer 3.1 or higher automatically patch against this flaw in all versions of Minecraft.** If you had used an older version of Pinecraft Installer to setup your server, **you must run an upgrade install using Pinecraft Installer 3.1 or higher in order to patch your server**. Always use the latest version of Pinecraft Installer to receive the latest versions, patches, fixes and features. Even if you're staying with the same version of Minecraft server (even Cuberite), simply run an Upgrade install in Pinecraft Installer to ensure you have the latest (patched) version of your chosen server flavor.
+An exploit in Apache's Log4j that affects all versions of Minecraft 1.7-1.18 was discovered December 10, 2021. I was swift to take action with Pinecraft Installer and had a patch out in under a day. **All Dreamcraftt-installed servers using Pinecraft Installer 3.1 or higher automatically patch against this flaw in all versions of Minecraft.** If you had used an older version of Pinecraft Installer to setup your server, **you must run an upgrade install using Pinecraft Installer 3.1 or higher in order to patch your server**. Always use the latest version of Pinecraft Installer to receive the latest versions, patches, fixes and features. Even if you're staying with the same version of Minecraft server (even Cuberite), simply run an Upgrade install in Pinecraft Installer to ensure you have the latest (patched) version of your chosen server flavor.
 
 Notchian clients (used to connect to Cuberite) are believed to be vulnerable to this issue. Therefore Cuberite now sanitizes chat messages to prevent malicious payloads.
 
-## About Pinecraft Installer
+## About Dreamcraft's Installer
 
 The installer will setup a "Normal" difficulty server and allow you to select between a Survival world complete with mobs, nether and more, or a Creative world to hone your skills as a master builder.
 
 The installer attempts to detect things like how much RAM you have (and available), and adjusts the server settings based on what it finds.
 
 **Looking For Help?** Pinecraft Installer *installs* Minecraft Java servers. If your question has to do with something other than *installing* a Minecraft server with Pinecraft Installer, the question likely is not for us. Questions surrounding gameplay, how to use a Minecraft server, etc., should be directed to [the Minecraft documentation](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server). Once your Minecraft server is installed, Pinecraft's job is done.
-
-
-Check out Pinecraft 2.6 on Category5 Technology TV:
-
-[![Pinecraft Installer 2.6 Featured on Category5 Technology TV](https://img.youtube.com/vi/1A4FtaiNkrg/0.jpg)](https://www.youtube.com/watch?v=1A4FtaiNkrg)
-
-
-Pinecraft Installer 1.0 was also featured on ameriBlog: https://ameridroid.com/blogs/ameriblogs/raspberry-pi-4-as-a-multiplayer-minecraft-server
-
-The current version of Pinecraft Installer is 3.1.
-
-![Screenshot of Pinecraft Installer 2.0](assets/pinecraft-2.0.png?raw=true)
-
 
 MINECRAFT VERSION
 =================
@@ -113,19 +98,6 @@ Creative mode strips away the survival aspects of Minecraft and allows players t
 
 We're open to suggestions. Let us know what you'd like to see.
 
-
-Buy Your Raspberry Pi (Or Other SBC)
-====================================
-
-This feature on Category5 Technology TV sponsored by ameriDroid.com
-
-[![ameriDroid](assets/ameridroid.png?raw=true)](https://ameridroid.com)
-
-USA-based SBC sales with unmatched support and fast shipping
-
-To power your Minecraft Server, get a Raspberry Pi 4 from https://ameridroid.com
-
-
 Hardware Requirements
 =====================
 
@@ -156,28 +128,6 @@ Remember, adding plugins can have a negative impact on your server performance. 
 
 You can download plugins from https://www.spigotmc.org/resources/ or any other Bukkit / Spigot plugin resource.
 
-
-Level Seeds
-===========
-
-During installation, you can choose from one of our provided level seeds, or use your own.
-
-**Category5 TV RPi Server** [via Category5 Technology TV](https://cat5.tv/minecraft)
-
-Complete with the mystical floating tree at spawn! Head North West to -396 ~ 148 to [find the town nether portal](https://youtu.be/-8-7fQmhn2k?t=824), which takes only a little work to get up and running.
-
-**Jeff's Tutorial World** [via Category5 Technology TV](https://cat5.tv/minecraft)
-
-The world used in Jeff's tutorials such as [Easy XP and Loot with Minecraft Zombie Grinder XP Farm NO REDSTONE](https://youtu.be/5b570XG0pf4) and [Trading Hack: Giving Villagers a Job in Minecraft - Villager Professions](https://youtu.be/NJ4aaOQHqhM)
-
-**All Biome World** [via Reddit/Plebiain](https://www.reddit.com/r/minecraftseeds/comments/h84n1j/spawn_on_a_mushroom_island_in_a_small_ocean/)
-
-This seed provides all biomes within easy reach of one another. It also includes many structures, making it an exciting seed to explore.
-
-**Paradise Valley** [via Reddit/SpaceBoiArt](https://www.reddit.com/r/minecraftseeds/comments/ia3dog/created_a_new_world_and_spawned_in_this_awesome/)
-
-An ideal seed for colossal builds. The level plains of Paradise Valley are surrounded by mountains, with resource-rich forests only a short journey from spawn.
-
 **Other Included World Seeds**
 
 - Minecraft Title Screen
@@ -189,15 +139,6 @@ An ideal seed for colossal builds. The level plains of Paradise Valley are surro
 - Shipwreck Village
 - Underwater Temple
 - Diamond Paradise
-
-
-License
-=======
-
-This project (Pinecraft, the install script) is free, open source software. However, Minecraft itself is not (hence why we are distributing an installer, not a pre-compiled distro). In order to use your Minecraft server, you must first accept the Minecraft EULA found here: https://account.mojang.com/documents/minecraft_eula
-
-Of course, other projects utilized for Pinecraft carry other licenses (such as Java, Spigot, etc.). Ours is just an installer / configuration tool and we are not distributing any software.
-
 
 Note About Backups
 ==================
@@ -288,6 +229,7 @@ The current Minecraft Server log file. You can run `tail -f ~/minecraft/logs/lat
 
 Version History
 ===============
+Dreamcraft's Installer 1.1 - Updated all 1.18.1/Forge 1.18.1/Paper 1.18.1/etc to the newest version avaliable.
 
 Pinecraft 3.1 - All applicable installers support 1.18. The Java version has been increased to 17, and the installer improved. Also addressed some changes in the Forge installer which broke compatibility with earlier versions of Pinecraft Installer.
 
