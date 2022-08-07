@@ -1,0 +1,1 @@
+echo url="https://www.duckdns.org/update?domains=play-dreamcraft-smp&token=7693e88f-79c4-414e-8f9b-c57833862ff3&ip=" | curl -k -o ~/duckdns/duck.log -K -
